@@ -1,16 +1,16 @@
-# Hello World, I'm Mariya Kristova! 👋
+# Hi there, I'm Mariya Kristova! 👋
 
-🎓 Software University graduate  
+🎓 **Software University graduate**  
 📍 Sofia, Bulgaria  
-💡 Interested in Backend Development & DevOps  
+💡 Focused on Backend Development & DevOps  
 🚀 Open to internships and collaboration opportunities  
 
 ---
 
 ## 🧩 About Me
 
-I’m a Software University graduate, building projects in Django.
-I enjoy improving development workflows and learning DevOps practices like Docker and CI/CD.
+I’m a Software University graduate, building projects with **Django** and **.NET**.  
+I enjoy improving development workflows and learning DevOps practices like **Docker** and **CI/CD**.
 
 I love creating clean, useful software and continuously growing as a developer.  
 Currently focused on strengthening my backend architecture and testing skills.
@@ -20,10 +20,10 @@ Currently focused on strengthening my backend architecture and testing skills.
 ## 🛠 Tech Stack
 
 **Languages:**  
-Python • JavaScript
+Python • C# • JavaScript
 
 **Frameworks & Tools:**  
-Django • GitHub Actions • Docker • Linux • SQL (PostgreSQL/SQLite)
+Django • .NET • GitHub Actions • Docker • Linux • SQL (PostgreSQL/SQLite)
 
 **Topics of interest:**  
 DevOps • CI/CD • Cloud • System Design • Databases
@@ -39,7 +39,8 @@ Here are some of the projects I am proud of — feel free to explore!
 | [WishNestApp](https://github.com/MariyaKristova/WishNestApp) | Django | Event & wish list management app. |
 | [Petstagram-App](https://github.com/MariyaKristova/Petstagram-App) | Django | A social network for pets (course project). |
 
-> I am actively improving documentation and adding new features — stay tuned! 🔧
+> Actively improving documentation and adding new features — stay tuned! 🔧  
+> Always open to contributing to open-source 🤝
 
 ---
 
@@ -51,8 +52,8 @@ Here are some of the projects I am proud of — feel free to explore!
 
 ## 📫 How to reach me
 
-📧 Email: maria.vinogradova@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/mariya-kristova-71852b261  
+📧 Email: **maria.vinogradova@gmail.com**  
+🔗 LinkedIn: **[linkedin.com/in/mariya-kristova-71852b261](https://www.linkedin.com/in/mariya-kristova-71852b261/)**  
 
 If you'd like to collaborate, mentor, or just chat — feel free to reach out! 😊
 
