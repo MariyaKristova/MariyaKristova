@@ -1,4 +1,7 @@
-# Hi there, I'm Mariya Kristova! 👋
+<p align="center">
+  <img src="assets/github-banner.png" alt="Hello World, I'm Mariya Banner"/>
+</p>
+
 
 🎓 **Software University graduate**  
 📍 Sofia, Bulgaria  
