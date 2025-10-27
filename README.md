@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/git-banner.png" alt="Hello World, I'm Mariya Banner"/>
+  <img src="assets/banner.svg" alt="Hello World, I'm Mariya Banner"/>
 </p>
 
 
