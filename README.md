@@ -9,7 +9,7 @@
 
 ## 🧩 About Me
 
-I’m a Software University graduate, building projects with **Django** and **.NET**.  
+I’m a Software University graduate, building projects with **Django**.  
 I enjoy improving development workflows and learning DevOps practices like **Docker** and **CI/CD**.
 
 I love creating clean, useful software and continuously growing as a developer.  
@@ -20,10 +20,10 @@ Currently focused on strengthening my backend architecture and testing skills.
 ## 🛠 Tech Stack
 
 **Languages:**  
-Python • C# • JavaScript
+Python • JavaScript
 
 **Frameworks & Tools:**  
-Django • .NET • GitHub Actions • Docker • Linux • SQL (PostgreSQL/SQLite)
+Django • GitHub Actions • Docker • Linux • SQL (PostgreSQL/SQLite)
 
 **Topics of interest:**  
 DevOps • CI/CD • Cloud • System Design • Databases
