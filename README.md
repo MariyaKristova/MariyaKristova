@@ -39,7 +39,7 @@ Here are some of the projects I am proud of — feel free to explore!
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| [UnitCommitmentOptimizationTool](https://github.com/MariyaKristova/UnitCommitmentOptimizationTool) | Django | A tool for solving a Unit Commitment & Economic Dispatch problem
+| [UnitCommitmentOptimizationTool](https://github.com/MariyaKristova/UnitCommitmentOptimizationTool) | Django | A tool for solving a Unit Commitment & Economic Dispatch problem.
 | [WishNestApp](https://github.com/MariyaKristova/WishNestApp) | Django | Event & wish list management app. |
 | [Petstagram-App](https://github.com/MariyaKristova/Petstagram-App) | Django | A social network for pets (course project). |
 
