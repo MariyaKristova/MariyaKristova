@@ -48,12 +48,6 @@ Here are some of the projects I am proud of — feel free to explore!
 
 ---
 
-## 📈 GitHub Stats
-
-![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaKristova&show_icons=true)
-
----
-
 ## 📫 How to reach me
 
 📧 Email: **maria.vinogradova@gmail.com**  
